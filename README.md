@@ -28,6 +28,7 @@ Agora você pode acessar seu repositório em github.com/{seuusuario}/start-here.
 2. Coloque seu nome na lista de pessoas que fizeram esse tutorial.
 
 # Passo 4: Fazendo um Commit
+remo
 
 # Passo 5: Fazendo um Pull Request 
 
